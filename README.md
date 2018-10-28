@@ -1,2 +1,2 @@
 # AppEjemplo
-Aplicación de prueba con Spring+MongoDB+Angular
+Aplicación de prueba con SpringBoot+MongoDB+Angular
